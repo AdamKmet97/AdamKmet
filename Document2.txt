@@ -1,0 +1,41 @@
+
+<!doctype html>
+<html>
+<html lang="en">
+<head>
+
+<title> WICKED</title>
+</head>
+
+<body>
+<body bgcolor="#FFB666">
+<style>
+
+@import "css/main.css"
+</style>
+
+<h1 align = "center"><img src = "images/wicked_title.jpg" alt=" Wicked" height= "300" width="1500" />	</h1>
+
+<!-------create a button class-------->
+<div class ="nav" align="center">
+<ul>
+
+   <a href="index.html">			HOME			</a>
+   <a href="faq.html">              FAQ				</a>
+   <a href="shop.html">				SHOP			</a>
+   <a href="venue.html"> 			VENUES			</a>
+   </h3>
+   <ul>
+</div>
+
+<h2> DUBLIN </h2>
+<img src = "images/dublin.jpg" alt=" Wicked" height= "300" width="1500" />
+<h2> BROADWAY </h2>
+<img src = "images/broadway.jpg" alt=" Wicked" height= "300" width="1500" />
+<h2> LOS ANGELES </h2>
+<img src = "images/LA.jpg" alt=" Wicked" height= "300" width="1500" />
+<h2> PARIS </h2>
+<img src = "images/paris.jpg" alt=" Wicked" height= "300" width="1500" />
+
+</body>
+</html>

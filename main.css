@@ -1,0 +1,56 @@
+body
+{
+background-color:#208000;
+}
+<!--nav bar-->
+ul
+{
+list-style-type:none;
+margin:5;
+padding:5;
+overflow:hidden;
+}
+    #log
+    {
+        margin: 5px;
+    padding:5;
+    }
+a:link,a:visited
+{
+display:block;
+front-weight:bold;
+color:#FFFFFF;
+background-color:#98bf21;
+width:350px;
+text-align:center;
+padding:6px;
+float:left;
+text-decoration:none;
+}
+
+p
+{
+color:#ffffff;
+}
+h2
+{
+color:#ffffff;
+}
+
+
+<!---left picture--->
+img,.pic1
+{
+padding:20px;
+float:left;
+
+}
+
+<!---right picture--->
+img,.live
+{
+padding:20px;
+float:right;
+
+}
+
